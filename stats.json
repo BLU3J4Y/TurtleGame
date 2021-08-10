@@ -1,0 +1,17 @@
+{
+    "MOPEY":{
+        "UNLOCKED": true,
+        "LVL": 0,
+        "HP": 10
+    },
+    "ROBBIE":{
+        "UNLOCKED": true,
+        "LVL": 0,
+        "HP": 20
+    },
+    "WILLOW":{
+        "UNLOCKED": false,
+        "LVL": 0,
+        "HP": 17
+    }
+}

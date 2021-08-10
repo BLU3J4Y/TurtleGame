@@ -1,0 +1,32 @@
+{
+    "INVENTORY":[],
+    "LOCATION": null,
+    "T1": null,
+    "T2": null,
+    "TURTLE_STATS":{
+        "MOPEY":{
+            "UNLOCKED": true,
+            "LVL": 0,
+            "ST": 9,
+            "AG": 15,
+            "DEF": 12, 
+            "HP": 14
+        },
+        "ROBBIE":{
+            "UNLOCKED": true,
+            "LVL": 0,
+            "ST": 18,
+            "AG": 10,
+            "DEF": 14,
+            "HP": 20
+        },
+        "WILLOW":{
+            "UNLOCKED": true,
+            "LVL": 0,
+            "ST": 7,
+            "AG": 9,
+            "DEF": 19,
+            "HP": 17
+        }
+    }
+}
